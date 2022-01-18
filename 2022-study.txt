@@ -4,13 +4,23 @@ Databases:
 - Database Management Systems 
 - SQL 
 
+TODO: Create basic SQL app to work along with weekly materials
+
 Algorithms:
 - Computational Thinking
 - Algorithms 
+
+TODO: 
+- Create 'playground' app to implement weekly materials
 
 Java Advanced:
 - Java++
 - OOP with Java 
 
+TODO:
+- Word Cloud App (specs to come)
+- Image Filter (specs to come)
+
 Initial commit for git
+
 
