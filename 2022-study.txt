@@ -1,0 +1,16 @@
+Study - Semester 3 - hDip GMIT 2022
+
+Databases: 
+- Database Management Systems 
+- SQL 
+
+Algorithms:
+- Computational Thinking
+- Algorithms 
+
+Java Advanced:
+- Java++
+- OOP with Java 
+
+Initial commit for git
+ 
